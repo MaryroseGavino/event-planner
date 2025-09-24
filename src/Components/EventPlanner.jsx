@@ -15,6 +15,23 @@ const EventPlanner = () => {
         </p>
         <button className="get-started-button">Get Started</button>
       </section>
+      <section className="events_categories">
+        <ul>
+          <h2>Wedding Services:</h2>
+          <li>Dreamy Proposals</li>
+          <li>Engagement Photoshoots</li>
+          <li>Full Wedding Day Management</li>
+          <li>Romantic Honeymoon Planning</li>
+        </ul>
+
+        <ul>
+          <h2>Corporate Services:</h2>
+          <li>Company Gatherings & Conferences</li>
+          <li>Professional Networking Events</li>
+          <li>Recognition & Award Nights</li>
+          <li>Workshops and Panel Discussions</li>
+        </ul>
+      </section>
     </div>
   );
 };
