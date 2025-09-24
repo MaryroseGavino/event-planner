@@ -43,6 +43,10 @@ const EventPlanner = () => {
           <li>Professional Event Coordinator Support</li>
         </ul>
       </section>
+      <section className="testimonials">
+        <h2>Testimonials: </h2>
+        
+      </section>
     </div>
   );
 };
