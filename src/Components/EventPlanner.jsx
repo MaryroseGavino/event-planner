@@ -32,6 +32,9 @@ const EventPlanner = () => {
           <li>Workshops and Panel Discussions</li>
         </ul>
       </section>
+      <section className="feature">
+        <h2>Features: </h2>
+      </section>
     </div>
   );
 };
