@@ -8,7 +8,12 @@ const EventPlanner = () => {
         <h1>Welcome to Event Planner</h1>
       </header>
       <section className="description">
-        
+        <p>
+          ✨ Whether it’s an intimate dinner or a grand celebration, our Event
+          Planner ensures your special day is smooth and effortless. Cherish the
+          moments—while we take care of every detail.
+        </p>
+        <button className="get-started-button">Get Started</button>
       </section>
     </div>
   );
