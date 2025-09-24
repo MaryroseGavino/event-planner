@@ -45,7 +45,25 @@ const EventPlanner = () => {
       </section>
       <section className="testimonials">
         <h2>Testimonials: </h2>
-        
+        <div className="testimonial">
+          <p>
+            "Our wedding felt like a dream come true! The team handled every
+            detail flawlessly, making the whole day stress-free."
+          </p>
+          <p>
+            <strong>- Mr & Mrs Dela Fuente</strong>
+          </p>
+        </div>
+
+        <div className="testimonial">
+          <p>
+            "Highly professional and meticulous. Our corporate gala was a huge
+            success and left a lasting impression on our partners."
+          </p>
+          <p>
+            <strong>- Roger Roxas</strong>
+          </p>
+        </div>
       </section>
     </div>
   );
