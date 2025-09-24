@@ -65,6 +65,9 @@ const EventPlanner = () => {
           </p>
         </div>
       </section>
+      <section className="contact">
+        
+      </section>
     </div>
   );
 };
